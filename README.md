@@ -25,4 +25,5 @@ LinkedIn: linkedin.com/in/anuki-tsimintia
 GitHub: github.com/anukitsim
 
 ⚡ Fun Fact
+
 I'm a student at 42 Berlin, involved in peer-to-peer learning, collaborative coding, and hands-on projects.
